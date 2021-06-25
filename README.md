@@ -1,6 +1,6 @@
 # RUBIKS CUBE LED CUBE
 
-I ripped an old led cube apart and placed my own leds, shift registers and Raspberry Pi Pico in it. The cube displays some small animations, between which you can choose with an ir-remote
+I ripped an old led cube apart and placed my own leds, shift registers and Raspberry Pi Pico in it. The cube displays some small animations, between which you can choose with an ir-remote.
 
 
 
